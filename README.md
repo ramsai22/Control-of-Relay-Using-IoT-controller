@@ -1,6 +1,6 @@
 # NAME : PAIDA RAM SAI
 # REG NO: 212223110034
-# EX NO : 2 Control-of-Relay-Using-IoT-controller
+# EXP02:Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
@@ -62,7 +62,11 @@ void loop() {
 <img width="1254" height="863" alt="image" src="https://github.com/user-attachments/assets/a68f683c-a51d-4b1f-ad1a-45f6ee8514d2" />
 
 ## OUTPUT:
+## LED OFF:
 <img width="1197" height="791" alt="Screenshot 2025-09-10 095350" src="https://github.com/user-attachments/assets/7bb0cb98-d965-4056-9b00-f8c457d9dfa9" />
+
+## LED ON:
+<img width="1147" height="797" alt="Screenshot 2025-09-16 113234" src="https://github.com/user-attachments/assets/0899bdde-40c3-4772-b3dc-93bd3dea0cc0" />
 
 
 ## RESULT:
